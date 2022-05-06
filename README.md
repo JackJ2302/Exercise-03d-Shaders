@@ -112,6 +112,4 @@ Built using Godot 3.4.2
 None
 
 ## Created by 
-
-Jason Francis
-```
+Jack Joseph
